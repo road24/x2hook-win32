@@ -1,0 +1,28 @@
+# Project Name
+
+## About
+Provide a brief description of your project here. Explain what it does, its purpose, and any key features.
+
+## How to Install
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd your-repo
+    ```
+3. Follow any additional installation steps specific to your project.
+
+## How to Build
+1. Ensure you have the required dependencies installed.
+2. Run the build command:
+    ```bash
+    your-build-command
+    ```
+3. The built files will be located in the `build` directory (or specify the location).
+
+## Buy Me a Coffee
+If you find this project helpful, consider supporting me:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/your-profile)
